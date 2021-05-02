@@ -7,5 +7,6 @@ namespace ticketP.mysql
 {
     public class laBD
     {
+        // Console.WriteLine("  qqqqqqqqqqqqqqqqqqqqqqqq ");
     }
 }
