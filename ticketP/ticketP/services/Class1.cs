@@ -7,6 +7,6 @@ namespace ticketP.services
 {
     public class Class1
     {
-       // Console.WriteLine("Que onda prro");
+     hola fernando pvto
     }
 }
